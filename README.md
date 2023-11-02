@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="tu_imagen_de_perfil.jpg" alt="Tomas Avecilla" width="200" height="200">
+  <img src="logo-no-background.svg" alt="Tomas Avecilla" width="200" height="200">
 </p>
 
 <!-- Título y Presentación -->
