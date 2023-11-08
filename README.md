@@ -22,10 +22,9 @@ Welcome to my GitHub profile! I'm passionate about the world of Computer Science
 ## 💻 My Skills
 
 - Programming Languages: Python
-- Data Analysis: Pandas, NumPy
-<!-- - Machine Learning: TensorFlow, Scikit-Learn -->
-- Web Development: HTML, CSS, React
-- Databases: SQL, MongoDB
+- Data Analysis: CSV, NetworkX, Pandas
+- Web Development: HTML, CSS
+- Databases: SQL
 - Version Control: Git
 <!-- - Cloud Platforms: AWS, Google Cloud -->
 
