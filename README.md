@@ -14,19 +14,13 @@ Welcome to my GitHub profile! I'm passionate about the world of Computer Science
 - Data Science
 - Machine Learning
 - Artificial Intelligence
-- Web Development
-- Open Source Projects
-- Building Cool Stuff with Code!
 
 <!-- Mis Habilidades -->
 ## 💻 My Skills
-
 - Programming Languages: Python
-- Data Analysis: CSV, NetworkX, Pandas
-- Web Development: HTML, CSS
-- Databases: SQL
+- Data Analysis: CSV, NetworkX, Pandas, Matplotlib, Seaborn
+- Databases: SQL Languaje, SQL Server, Visual Studio SSIS
 - Version Control: Git
-<!-- - Cloud Platforms: AWS, Google Cloud -->
 
 <!-- Proyectos Destacados
 ## 🚀 Featured Projects
