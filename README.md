@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm passionate about the world of Computer Science
 <!-- Mis Habilidades -->
 ## 💻 My Skills
 - Programming Languages: Python
-- Data Analysis: CSV, NetworkX, Pandas, Matplotlib, Seaborn
-- Databases: SQL Languaje, SQL Server, Visual Studio SSIS
-- Version Control: Git
+- Data Analysis
+- Databases: SQL Languaje, SQL Server, Visual Studio SSIS, Power BI
+- Version Control
 
 <!-- Proyectos Destacados
 ## 🚀 Featured Projects
