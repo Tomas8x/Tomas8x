@@ -1,10 +1,9 @@
-<!-- Banner -->
-<p align="center">
-  <img src="logo-no-background.svg" alt="Tomas Avecilla" width="200" height="200">
-</p>
-
 <!-- Título y Presentación -->
 # 👋 Hi, I'm Tomas Avecilla
+
+<p align="center">
+  <img src="logo-no-background.jpeg" alt="Tomas Avecilla" width="200" height="200">
+</p>
 
 Welcome to my GitHub profile! I'm passionate about the world of Computer Science and Technology, and I'm on an exciting journey to explore the realms of Data Science and Artificial Intelligence. 🚀
 
