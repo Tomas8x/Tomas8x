@@ -26,9 +26,10 @@ Welcome to my GitHub profile! I'm passionate about the world of Computer Science
 
 Here are some of the exciting projects I've been working on:
 
-1. [Data Analysis with pandas]([link_al_proyecto](https://github.com/Tomas8x/Analisis-de-datos-con-Pandas)): Data cleaning, trnasformation and visualization
-2. [DataWarehouse]([link_al_proyecto](https://github.com/Tomas8x/Datawarehouse---SSIS)): ETL with VS, SSIS and SQL Server + some PBI Dashboards.
-3. [Application Programming Interface]([link_al_proyecto](https://github.com/Tomas8x/API-Servidor-y-Cliente)): FastAPI Project. 
+1. [Data Analysis with pandas](https://github.com/Tomas8x/Analisis-de-datos-con-Pandas): Data cleaning, transformation, and visualization
+2. [DataWarehouse](https://github.com/Tomas8x/Datawarehouse---SSIS): ETL with VS, SSIS, and SQL Server + some PBI Dashboards.
+3. [Application Programming Interface](https://github.com/Tomas8x/API-Servidor-y-Cliente): FastAPI Project.
+
 
 <!-- ¿Cómo Pueden Contactarme? -->
 ## 📫 How to Reach Me
