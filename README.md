@@ -11,24 +11,24 @@ Welcome to my GitHub profile! I'm passionate about the world of Computer Science
 ## 👀 What I'm Interested In
 
 - Data Science
-- Machine Learning
 - Artificial Intelligence
 
 <!-- Mis Habilidades -->
 ## 💻 My Skills
-- Programming Languages: Python
-- Data Analysis
+- Programming Languages: Python, Rstudio
+- Data Analysis: Pandas, Statsmodels, Networkx
 - Databases: SQL Languaje, SQL Server, Visual Studio SSIS, Power BI
-- Version Control
+- Version Control: GIT
+- API: FastAPI
 
-<!-- Proyectos Destacados
+
 ## 🚀 Featured Projects
 
 Here are some of the exciting projects I've been working on:
 
-1. [Project Name](link_al_proyecto): A brief description of the project and its significance.
-2. [Project Name](link_al_proyecto): Highlight another project, its goals, and what you achieved.
-3. [Project Name](link_al_proyecto): Share a third project showcasing your diverse skills. -->
+1. [Data Analysis with pandas]([link_al_proyecto](https://github.com/Tomas8x/Analisis-de-datos-con-Pandas)): Data cleaning, trnasformation and visualization
+2. [DataWarehouse]([link_al_proyecto](https://github.com/Tomas8x/Datawarehouse---SSIS)): ETL with VS, SSIS and SQL Server + some PBI Dashboards.
+3. [Application Programming Interface]([link_al_proyecto](https://github.com/Tomas8x/API-Servidor-y-Cliente)): FastAPI Project. 
 
 <!-- ¿Cómo Pueden Contactarme? -->
 ## 📫 How to Reach Me
