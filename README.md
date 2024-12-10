@@ -1,12 +1,6 @@
 <!-- Título y Presentación -->
 # 👋 Hi, I'm Tomas Avecilla
 
-<p align="center">
-  <img src="banner.jpeg" alt="Tomas Avecilla">
-</p>
-
-Welcome to my GitHub profile! I'm passionate about the world of Computer Science and Technology, and I'm on an exciting journey to explore the realms of Data Science and Artificial Intelligence. 🚀
-
 <!-- Áreas de Interés -->
 ## 👀 What I'm Interested In
 
@@ -36,7 +30,6 @@ Here are some of the exciting projects I've been working on:
 
 I'm open to collaboration, discussions, and new opportunities. If you'd like to get in touch with me, please feel free to reach out via email: [tomas8avecilla@gmail.com](mailto:tomas8avecilla@gmail.com).
 
-<!-- Estadísticas de GitHub
 ## 📊 GitHub Stats
 
 [![Tomas8Avecilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tomas8x&show_icons=true&theme=dark)](https://github.com/Tomas8x)
