@@ -29,7 +29,7 @@ Here are some of the exciting projects I've been working on:
 ## 📫 How to Reach Me
 
 I'm open to collaboration, discussions, and new opportunities. If you'd like to get in touch with me, please feel free to reach out via email: [tomas8avecilla@gmail.com](mailto:tomas8avecilla@gmail.com).
-
+<!-- 
 ## 📊 GitHub Stats
 
 [![Tomas8Avecilla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tomas8x&show_icons=true&theme=dark)](https://github.com/Tomas8x)
