@@ -7,24 +7,6 @@
 - Data Science
 - Artificial Intelligence
 
-<!-- Mis Habilidades -->
-## 💻 My Skills
-- Programming Languages: Python, Rstudio
-- Data Analysis: Pandas, Statsmodels, Networkx
-- Databases: SQL Languaje, SQL Server, Visual Studio SSIS, Power BI
-- Version Control: GIT
-- API: FastAPI
-
-
-## 🚀 Featured Projects
-
-Here are some of the exciting projects I've been working on:
-
-1. [Data Analysis with pandas](https://github.com/Tomas8x/Analisis-de-datos-con-Pandas): Data cleaning, transformation, and visualization
-2. [DataWarehouse](https://github.com/Tomas8x/Datawarehouse---SSIS): ETL with VS, SSIS, and SQL Server + some PBI Dashboards.
-3. [Application Programming Interface](https://github.com/Tomas8x/API-Servidor-y-Cliente): FastAPI Project.
-
-
 <!-- ¿Cómo Pueden Contactarme? -->
 ## 📫 How to Reach Me
 
