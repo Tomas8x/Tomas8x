@@ -26,4 +26,3 @@ I love contributing to open-source projects. Here are some notable projects I've
 - [Project Name](link_al_proyecto): Describe your contributions and involvement.
 - [Project Name](link_al_proyecto): Highlight your contributions to another open-source project. -->
 <!-- Agradecimientos y Cierre -->
-Thank you for visiting my GitHub profile! If you're interested in collaboration, projects, or just want to chat about tech, don't hesitate to connect with me 😃
