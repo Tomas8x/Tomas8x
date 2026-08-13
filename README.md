@@ -52,8 +52,8 @@ I build data pipelines, machine learning models and cloud infrastructure — tur
 
 ## 📊 GitHub Stats
 
-[![Tomas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tomas8x&show_icons=true&theme=tokyonight)](https://github.com/Tomas8x)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomas8x&layout=compact&theme=tokyonight)](https://github.com/Tomas8x)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tomas8x&theme=tokyonight)](https://github.com/Tomas8x)
+[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tomas8x&theme=tokyonight)](https://github.com/Tomas8x)
 
 ---
 
