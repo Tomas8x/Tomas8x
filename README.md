@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Tomas Avecilla
 
 **Data & Cloud Engineer** based in Santa Fe, Argentina 🇦🇷
-BSc student in Data Science at *Universidad de Granada* (UGR) · graduate of the *Tecnicatura Universitaria en Inteligencia Artificial* (TUIA · UNR).
+BSc student in Data Science at *Universidad del Gran Rosario* (UGR) · Associate Degree in Artificial Intelligence (TUIA · UNR).
 
 I build data pipelines, machine learning models and cloud infrastructure — turning raw data into products that ship.
 
