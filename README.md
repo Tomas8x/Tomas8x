@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Tomas Avecilla
 
 **Data & Cloud Engineer** based in Santa Fe, Argentina 🇦🇷
-Studying at the *Tecnicatura Universitaria en Inteligencia Artificial* (TUIA · UNR).
+BSc student in Data Science at *Universidad de Granada* (UGR) · graduate of the *Tecnicatura Universitaria en Inteligencia Artificial* (TUIA · UNR).
 
 I build data pipelines, machine learning models and cloud infrastructure — turning raw data into products that ship.
 
@@ -11,14 +11,20 @@ I build data pipelines, machine learning models and cloud infrastructure — tur
 
 ## 🛠️ Tech Stack
 
+**☁️ Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**🤖 AI & Data**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
